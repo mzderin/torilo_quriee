@@ -1,0 +1,288 @@
+
+/*Header*/
+.navigation{
+    background-color: white;
+}
+.navimg img{
+    width: 100%;
+}
+.nav-items{
+    margin: 40px;
+}
+.nav-items{
+    display: flex;
+    margin-left: 60%;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(231, 177, 231);
+}
+.story{
+    margin-right: 40px;
+}
+.driver{
+    margin-right: 40px;
+}
+.support{
+    margin-right: 0px;
+}
+.works{
+    margin-left: 50px;
+}
+.headr{
+    position: relative;
+    text-align: center;
+    color: rgb(211, 73, 211);
+}
+
+.headword1{
+    margin-left: 80px;
+    margin-top: 60px;
+    width: 500px;
+    height: 10px;
+    color: white;
+    font-size: 28px;
+    text-align: left;
+    position: absolute; 
+    top: 10px; 
+    left: 26px;
+    padding: 15px;
+}
+.headword2{
+   color: whitesmoke;
+   width: 25%;
+   position: absolute; 
+   bottom: 45%;
+   left: 8%;
+   text-align: left;
+   font-size: 20;
+   
+}
+.gplay{
+    width: 300px;
+    height: 75px;
+    position: absolute;
+    bottom:25% ;
+    left: 8%;
+}
+.appstore{
+    width: 300px;
+    height: 75px;
+    position: absolute;
+    bottom:25% ;
+    left: 30%;
+}
+/*Body*/
+
+.o1body{
+    background-color: white;
+    width:90% ;
+}
+.obody{
+    display: flex;
+}
+.obody img{
+    margin: 150px 0px 70px 90px ;
+    height: 500px;
+}
+.body1{
+    color: black;
+    width: 350px;
+    margin: 250px 0px 0px 90px;
+}
+.body2{
+    color: gray;
+    margin: 70px 0px 70px 0px;
+}
+
+.button1{
+    background-color: rgb(124, 8, 124);
+    color: white;
+    width: 180px;
+    height: 40px;
+    font-size: 13px;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+
+}
+.button1:hover{
+    background-color: white;
+}
+
+.o2body{
+    background-color: white;
+    width: 90%;
+}
+
+.o2body1{
+    display: flex;
+}
+
+.o2body2{
+    color: black;
+    width: 300%;
+    margin: 250px 0px 70px 90px;
+}
+
+.o2body3{
+    color: grey;
+    margin-top: 40px;
+    width: 400px;
+}
+.button2{
+    margin-top: 40px;
+    background-color: rgb(121, 11, 121);
+    font: white;
+    width: 180px;
+    height: 40px;
+    font-size: 13px;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+
+}
+.button2:hover{
+    background-color: white;
+}
+.o2body1 img{
+    margin: 150px 0px 70px 90px ;
+    height: 500px;
+}
+.o3body{
+    text-align: center;
+}
+.o3body img{
+    margin: 80px 0px 40px 0px ;
+    height: 500px;
+
+}
+.o4body{
+    display: flex;
+    background-color: brown;
+}
+.o4body img{
+    width: 100%;
+}
+.o4body1{
+    position: absolute;
+    left: 60%;
+    margin-top: 300px;
+    width: 450px;
+    font-size: 35px;
+    transform: translate(-50%, -50%);
+
+}
+.o5body{
+    height: 650px;
+}
+.o5body1{
+    text-align: center;
+}
+.o5body2{
+    display: flex;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.o5body2text{
+    margin-left: 320px;
+    margin-top: -100px;
+}
+.o5body2text2{
+    margin-right: 320px;
+    margin-top: -100px;
+}
+.o5body2 img{
+    width: 50%;
+}
+.o5body2pic img{
+    margin-left: 300px;
+}
+.o5body2pic2 img{
+    margin-right: 300px;
+}
+.o6body{
+    background-color: rgba(222, 185, 236, 0.418);
+}
+.o6body1{
+    text-align: center;
+}
+.o6body2{
+    display: flex;
+    width: 70%;
+    margin-left: 350px;
+    text-align: left;
+}
+.o6body2 img{
+    width: 50px;
+}
+.o6body21{
+    width: 20%;
+    margin-right: 30px;
+}
+.o6body22{
+    width: 20%;
+    margin-left: 50px;
+}
+.o6body23{
+    width: 20%;
+    margin-left: 100px;
+}
+.o6body3{
+    width: 300px;
+    font-size: 20px;
+    margin-left: 350px;
+}
+button{
+    text-align: center;
+    background-color: rgb(121, 11, 121);
+    color: black;
+    width: 180px;
+    height: 40px;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: white;
+    cursor: pointer;
+} 
+
+.button3 {
+    text-align: right;
+}
+
+/*footer*/
+
+
+#footer{
+    background-color: black;
+    color: white;
+    height: 500px ;
+}
+.footer1{
+    display: flex;
+    margin-left: 350px;
+}
+.footerbody{
+    width: 300px;
+}
+.footerlink{
+    margin-top: 80px;
+    margin-left: 150px;
+}
+.footercontact{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.foot3{
+    margin-left: 20px;
+}
+.foot4{
+    margin-left: 90%;
+}
+.fot{
+    color: white;
+}
